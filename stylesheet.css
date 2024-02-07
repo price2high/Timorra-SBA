@@ -1,0 +1,556 @@
+.img-container img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.container-fluid {
+    background-color: red;
+text-align: center;
+}
+
+.card-body p,
+.card-body h1 {
+    margin: 8px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+.card-box {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-evenly;
+}
+/* Boxes */
+.box1 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+.box1:hover {
+    background-color: red;
+}
+
+
+.box2 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box2:hover {
+    background-color: red;
+}
+
+.box3 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box3:hover {
+    background-color: red;
+}
+
+.box4 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box4:hover {
+    background-color: red;
+}
+
+.box5 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box5:hover {
+    background-color: red;
+}
+
+.box6 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box6:hover {
+    background-color: red;
+}
+
+.box7 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box7:hover {
+    background-color: red;
+}
+
+.box8 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box8:hover {
+    background-color: red;
+}
+.box9 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box9:hover {
+    background-color: red;
+}
+.box10 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box10:hover {
+    background-color: red;
+}
+.box11 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box11:hover {
+    background-color: red;
+}
+.box12 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box12:hover {
+    background-color: red;
+}
+
+.box13 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box13:hover {
+    background-color: red;
+}
+.box14 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box14:hover {
+    background-color: red;
+}
+.box15 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box15:hover {
+    background-color: red;
+}
+.box16 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box16:hover {
+    background-color: red;
+}
+.box17 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box17:hover {
+    background-color: red;
+}
+.box18 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box18:hover {
+    background-color: red;
+}
+.box19 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box19:hover {
+    background-color: red;
+}
+.box20 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box20:hover {
+    background-color: red;
+}
+.box21 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box21:hover {
+    background-color: red;
+}
+.box22 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box22:hover {
+    background-color: red;
+}
+.box23 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box23:hover {
+    background-color: red;
+}
+.box24 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box24:hover {
+    background-color: red;
+}
+.box25 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box25:hover {
+    background-color: red;
+}
+.box26 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box26:hover {
+    background-color: red;
+}
+.box27 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box27:hover {
+    background-color: red;
+}
+.box28 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box28:hover {
+    background-color: red;
+}
+.box29 {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+    transition-property: background-color;
+    transition-duration: 2s;
+}
+
+
+.box29:hover {
+    background-color: red;
+}
+/* About Us page */
+/* .card-main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+} */
+.fatherssection  {align-items: center;
+    display: flexbox; 
+     width: 500px;
+     display: flex;
+     justify-content: space-around;
+   } 
+.section {
+    font-size: larger;
+    background-color: #488d4b;
+    text-align: center;
+}
+.section2 {
+    font-size: larger;
+    background-color: #575d57;
+    text-align: center;
+}
+   /* .img-container img {
+     max-width: 100%;
+     height: 100; 
+  }  */
+   .card-box {
+    border: 1px solid black;
+    width: 200px;
+    justify-content: space-around;
+    background-color: green;
+  }
+  /* Bordered form */
+form {
+  border: 1px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+/* input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+} */
+
+/* Set a style for all buttons */
+button {
+  background-color: #04AA6D;
+  color: white;
+  /* padding: 14px 20px;
+  margin: 8px 0; */
+  border: none;
+  cursor: pointer;
+  /* width: 100%; */
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: black;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+/* Avatar image */
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* The "Forgot password" text */
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+/* Contact us page */
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid black; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
